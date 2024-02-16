@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+World!+👋;+I'm+Jesus+Luna!;" />
 </h1>
 
-<h3 align="center">Developer Fullstack Jr.</h3>
+<h3 align="center">Fullstack Developer Jr.</h3>
 
 <br/>
 
