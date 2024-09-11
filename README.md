@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,github,laravel,arduino,postman" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,sqlserver,dotnet,androidstudio,cs" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,laravel,arduino,postman" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,angular,dotnet,androidstudio,cs" alt="Tech Stack 2" />
 </div>
 
 <br/>
