@@ -2,19 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=¡Bienvenidos!+👋;+Soy+Jesús+Luna!;" alt="Typing SVG Welcome" />
 </h1>
 
-<h3 align="center">Ingeniero en Sistemas Computacionales | Apasionado por la Tecnología</h3>
+<h3 align="center">Ingeniero en Sistemas Computacionales</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Actualmente trabajando en una **empresa de desarrollo de software.**
+ *-/9+865-0🔭 Actualmente trabajando en una **empresa multinacional de desarrollo de software.**
  
-🌱 Aprendiendo sobre **Django, Power Platform (Dynamics, Power Apps, Power Automate, Power BI, Power Pages, Builder IA, Metaverse) y un poco de Ciberseguridad.**
+🌱 Aprendiendo sobre **ICM Varicent**
 
-💬 No dudes en preguntarme sobre **Bases de Datos... o cualquier otro tema**, siempre es enriquecedor compartir ideas, incluso si aún no tenemos la respuesta.
+💬 No dudes en preguntarme sobre **Bases de Datos...**, siempre es enriquecedor compartir ideas, incluso si aún no tenemos la respuesta.
 
-⚡ Dato curioso: **Todo tiene solución, excepto la muerte.**
+⚡ Dato curioso: **El primer "bug" en informática fue literalmente un insecto, una polilla que causó un fallo en una computadora en 1947**
 
 </div>
 
@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,vscode,github,laravel,git,arduino,azure,postman" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,mysql,dotnet,fastapi,androidstudio,cs,docker" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=html,css,github,laravel,arduino,postman" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,dotnet,androidstudio,cs" alt="Tech Stack 2" />
 </div>
 
 <br/>
