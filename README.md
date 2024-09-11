@@ -8,13 +8,13 @@
 
 <div align="center">
  
- *-/9+865-0🔭 Actualmente trabajando en una **empresa multinacional de desarrollo de software.**
+ 🔭 Actualmente trabajando en una **empresa multinacional de desarrollo de software.**
  
 🌱 Aprendiendo sobre **ICM Varicent**
 
 💬 No dudes en preguntarme sobre **Bases de Datos...**, siempre es enriquecedor compartir ideas, incluso si aún no tenemos la respuesta.
 
-⚡ Dato curioso: **El primer "bug" en informática fue literalmente un insecto, una polilla que causó un fallo en una computadora en 1947**
+⚡ Dato curioso: **El primer "bug" en informática fue literalmente un insecto, una polilla que causó un fallo en una computadora en 1947.**
 
 </div>
 
@@ -22,15 +22,15 @@
 
 <div align="center"> 
   <a href="mailto:marevalojesus@gmail.com" title="Envíame un correo">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="mail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="mail" /> 
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/jesus-luna-a-1602072a6/" target="_blank" title="Visita mi LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jesus-luna-a-1602072a6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="mail" /> 
   </a>
   &nbsp;
-  <a href="https://jesus-lunaare.github.io/" target="_blank" title="Visita mi Portafolio">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  <a href="https://jesus-lunaare.github.io/" target="_blank"">
+    <img src="https://skillicons.dev/icons?i=github" alt="mail" /> 
   </a>
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,laravel,arduino,postman" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,angular,dotnet,androidstudio,cs" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=python,mongodb,angular,dotnet,androidstudio,cs,postgres" alt="Tech Stack 2" />
 </div>
 
 <br/>
