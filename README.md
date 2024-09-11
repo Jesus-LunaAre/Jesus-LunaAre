@@ -22,7 +22,7 @@
 
 <div align="center"> 
   <a href="mailto:marevalojesus@gmail.com" title="Envíame un correo">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="mail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jesus-luna-a-1602072a6/" target="_blank" title="Visita mi LinkedIn">
@@ -37,7 +37,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
+<h2 align="center">⚒️ Herramientas ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,laravel,arduino,postman" alt="Tech Stack 1" />
