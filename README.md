@@ -19,7 +19,7 @@ Creo soluciones que integran **RPA, IA/ML, APIs REST, migración de datos y desp
 
 ## 🛠️ Competencias Técnicas
 
-### Lenguajes, Frameworks y sistemas
+### Lenguajes, Frameworks y Sistemas Empresariales
 <div>
 <img src="https://skillicons.dev/icons?i=python,dotnet,cs,fastapi,flask,angular,laravel,androidstudio,ts,arduino,css,html,js,jquery" />
 <img src="https://img.shields.io/badge/Varicent-ICM-yellow" />
