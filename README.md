@@ -1,54 +1,57 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=¡Bienvenidos!+👋;+Soy+Jesús+Luna!;" alt="Typing SVG Welcome" />
-</h1>
-
-<h3 align="center">Ingeniero en Sistemas Computacionales</h3>
-
-<br/>
-
+<!-- Encabezado con nombre y contactos -->
 <div align="center">
- 
- 🔭 Actualmente trabajando en una **empresa multinacional de desarrollo de software.**
- 
-🌱 Aprendiendo sobre **ICM Varicent**
 
-💬 No dudes en preguntarme sobre **Bases de Datos...**, siempre es enriquecedor compartir ideas, incluso si aún no tenemos la respuesta.
+# Jesús Luna Arévalo  
+### Desarrollador RPA/IA | Ingeniero de Software Full-Stack  
 
-⚡ Dato curioso: **El primer "bug" en informática fue literalmente un insecto, una polilla que causó un fallo en una computadora en 1947.**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ingjesuslunaarevalo)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:inglunajesus@hotmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/jesus-lunaare)
 
 </div>
 
-<br/>
 
-<div align="center"> 
-  <a href="mailto:marevalojesus@gmail.com" title="Envíame un correo">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="mail" /> 
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jesus-luna-a-1602072a6/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="mail" /> 
-  </a>
-  &nbsp;
-  <a href="https://jesus-lunaare.github.io/" target="_blank"">
-    <img src="https://skillicons.dev/icons?i=github" alt="mail" /> 
-  </a>
+
+## 🚀 Sobre mí
+Ingeniero en Sistemas Computacionales especializado en **automatización de procesos**, **inteligencia artificial** y **desarrollo Full-Stack**.  
+Creo soluciones que integran **RPA, IA/ML, APIs REST, migración de datos y despliegue en la nube**, optimizando flujos de trabajo y mejorando la eficiencia operativa.
+
+
+## 🛠️ Competencias Técnicas
+
+### Lenguajes, Frameworks y sistemas
+<div>
+<img src="https://skillicons.dev/icons?i=python,dotnet,cs,fastapi,flask,angular,laravel,androidstudio,ts,arduino,css,html,js,jquery" />
+<img src="https://img.shields.io/badge/Varicent-ICM-yellow" />
 </div>
 
-<br/>
-<hr/>
-
-<h2 align="center">⚒️ Herramientas ⚒️</h2>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,laravel,arduino,postman" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=python,mongodb,angular,dotnet,androidstudio,cs,postgres" alt="Tech Stack 2" />
+### RPA e Inteligencia Artificial
+<div>
+<img src="https://skillicons.dev/icons?i=bots" />
+<img src="https://img.shields.io/badge/Power%20Platform-Software-blueviolet?logo=microsoftpowerautomate" />
+<img src="https://img.shields.io/badge/OCR-Processing-lightgrey" />
+<img src="https://img.shields.io/badge/ML-Machine%20Learning-orange" />
+<img src="https://img.shields.io/badge/Chatbots-IA%20Conversacional-yellowgreen" />
 </div>
 
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Mis Contribuciones 🐍</h2>
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+### Bases de Datos y Nube
+<div>
+<img src="https://skillicons.dev/icons?i=azure,postgres,gcp,mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-Database-red" />
+<img src="https://img.shields.io/badge/ETL-Data%20Processing-green" />
 </div>
+
+### Herramientas y Metodologías
+<div>
+<img src="https://skillicons.dev/icons?i=git,docker,linux" />
+<img src="https://img.shields.io/badge/Scrum-Agile-blue" />
+<img src="https://img.shields.io/badge/CI/CD-DevOps-yellow" />
+</div>
+
+## 📂 Proyectos Destacados
+- Automatización de procesos críticos con RPA y Power Platform.  
+- Modelos de Machine Learning para clasificación y predicción.  
+- APIs REST y microservicios con FastAPI y .NET.  
+- Migraciones masivas de datos SQL a entornos en la nube.  
+- Integración de soluciones de IA conversacional en plataformas digitales.  
+
