@@ -2,7 +2,7 @@
 <div align="center">
 
 # Jesús Luna Arévalo  
-### Desarrollador RPA/IA | Especializado en Almacenamiento de Datos y Desarrollo Multiplataforma
+### Desarrollador RPA/IA | Ingeniero en Sistemas Computacionales
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ingjesuslunaarevalo)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:inglunajesus@hotmail.com)
@@ -13,7 +13,7 @@
 
 
 ## 🚀 Sobre mí
-Ingeniero en Sistemas Computacionales especializado en **automatización de procesos**, **inteligencia artificial** y **desarrollo Full-Stack**.  
+Desarrollador especializado en **automatización de procesos**, **inteligencia artificial** y **desarrollo Full-Stack**.  
 Creo soluciones que integran **RPA, IA/ML, APIs REST, migración de datos y despliegue en la nube**, optimizando flujos de trabajo y mejorando la eficiencia operativa.
 
 
